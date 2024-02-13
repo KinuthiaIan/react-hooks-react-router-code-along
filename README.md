@@ -1,4 +1,4 @@
-# React Router Code-Along (v5)
+# React Router Code-Along
 
 ## Learning Goals
 
